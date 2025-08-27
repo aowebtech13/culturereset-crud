@@ -1,1 +1,0 @@
-# culturereset-crud
